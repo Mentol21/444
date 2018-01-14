@@ -1,0 +1,215 @@
+body {
+	font-family: Arial, sans-serif;
+	padding: 0;
+	margin: 0;
+	color: #222222;
+}
+
+div.menu{
+	color: #FFF;
+	float: right;
+	margin-top: 22px;
+	position: absolute;
+	right: 30px;
+	text-decoration: none;
+	margin-right: 180px;
+}
+li {
+	text-decoration: none;
+	display: inline;
+	padding-right: 40px;
+	color: #FFF;
+
+
+}
+.menu a {
+	color: #FFF;
+	text-transform: uppercase;
+	font-size: 14px;
+	text-decoration: none;
+}
+div.logo {
+	margin-top: 41px;
+	margin-left: 300px;
+	float: left;
+}
+
+div.naw {
+	height: 100vh;
+	background-image: url(../img/first-bg.jpg);
+	background-repeat: no-repeat;
+	position: center;
+	background-size: cover;
+}
+div.text-f {
+	position: absolute;
+	font-family: Arial, sans-serif;
+	font-size: 50px;
+	top: 150px;
+	right: 480px;
+	color: #FFF;
+}
+h1{
+	color: #FFF;
+	font-size: 68px;
+	position: absolute;
+	bottom: 380px;
+	left: 306px;
+}
+button.tell {
+	background: #fed136;
+	color: #484543;
+	border-radius: 3px;
+	display: block;
+	width: 240px;
+	padding: 20px 0;
+	margin: 0 auto;
+	text-decoration: none;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 18px;
+	position: absolute;
+	bottom: 310px;
+	left: 580px;
+}
+
+div.service {
+	position: absolute;
+	left: 600px;
+	bottom: -180px;
+	font-size: 32px;
+
+}
+h2 {
+	color: #000000;
+	font-size: 20px;
+}
+p.proin {
+	position: absolute;
+	left: 531px;
+	bottom: -181px;
+	font-size: 18px;
+	color: rgba(135, 135, 135, 0.9);
+}
+.commerce {
+	width: 400px;
+	position: absolute;
+	left: 170px;
+	bottom: -385px;
+	font-size: 18px;
+	color: rgba(135, 135, 135, 0.9);
+}
+p.pr1 {
+	width: 400px;
+	position: absolute;
+	left: -70px;
+	bottom: -85px;
+	font-size: 18px;
+	color: rgba(135, 135, 135, 0.9);
+}
+.icon1 {
+	position: absolute;
+	left: 23px;
+	bottom: 50px;
+}
+.Respoive {
+	width: 400px;
+	position: absolute;
+	left: 610px;
+	bottom: -385px;
+	font-size: 18px;
+	color: rgba(135, 135, 135, 0.9);
+}
+
+p.pr2 {
+	width: 400px;
+	position: absolute;
+	left: -70px;
+	bottom: -85px;
+	font-size: 18px;
+	color: rgba(135, 135, 135, 0.9);
+}
+.Security{
+	width: 400px;
+	position: absolute;
+	left: 1060px;
+	bottom: -385px;
+	font-size: 18px;
+	color: rgba(135, 135, 135, 0.9);
+}
+.icon2 {
+	position: absolute;
+	left: 35px;
+	bottom: 50px;
+}
+.pr3 {
+	width: 400px;
+	position: absolute;
+	left: -70px;
+	bottom: -85px;
+	font-size: 18px;
+	color: rgba(135, 135, 135, 0.9);
+}
+.icon3 {
+	position: absolute;
+	left: 20px;
+	bottom: 50px;
+}
+
+.portfolio {
+	position: absolute;
+	bottom: -1300px;
+	height: 700px;
+	width: 100%;
+	background-color: #eaeaea;
+	position: center;
+	background-size: cover;
+}
+.porh3 {
+	position: absolute;
+	bottom: 540px;
+	left:  530px;
+	font-size: 42px;
+}
+.por {
+	position: absolute;
+	bottom: 540px;
+	left:  573px;
+	font-size: 15px;
+	color: #888888;
+}
+.photo {
+	position: absolute;
+	bottom: 100px;
+}
+.por1 {
+	position: absolute;
+	bottom: 60px;
+	left: 235px;
+}
+.por2 {
+	position: absolute;
+	bottom: 60px;
+	left: 555px;
+}
+.por3 {
+	position: absolute;
+	bottom: 60px;
+	left: 865px;
+}
+.footer {
+	position: absolute;
+	bottom: -1300px;
+	height: 50px;
+	width: 98%;
+	background-color: black;
+	border:15px solid #e6e6e6;
+	border-radius: 144px;
+	color: #FFF;
+}
+.fot1 {
+	position: absolute;
+	left: 600px;
+}
+
